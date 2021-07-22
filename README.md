@@ -1,3 +1,3 @@
 # Symfony-site
 
-little project to know how to use Symfony. Done in July 2021.
+little project to discover Symfony. Done in July 2021.
